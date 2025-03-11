@@ -1,1 +1,1 @@
-# cloud_security
+# Exercises on cloud security for Skillio Data Engineer intense tranining
